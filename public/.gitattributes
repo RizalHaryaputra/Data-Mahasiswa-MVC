@@ -1,0 +1,6 @@
+# Mengatur LF untuk semua file teks
+* text=auto
+
+# Mengatur akhir baris untuk file CSS dan JS
+*.css text eol=lf
+*.js text eol=lf
